@@ -15,6 +15,6 @@ This analysis has found the following results:
 ![](./Resources/fivestar_review_percentage.png)
 
 ## Summary
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+According to this analysis, 5 star Vine reviews are slightly over 50% of the total 5 star reviews, compared to 5 star paid Vine reviews at a percentage of 38% of total 5 star reviews. Ultimately, a favorable bias toward paid Vine program member reviews is not indicated. 
 
-According to this analysis, 5 star Vine reviews are slightly over 50% of the total , compared to 38%  of 5 star paid Vine reviews.
+There is an unbalance total in total Vine reviews (170) to non-Vine reviews (37,830) and total five star Vine reviews (65) to total five star non-Vine reviews (20,612). Comparing these figures could lead to a misrepresentation in the data analysis.
